@@ -1,0 +1,12 @@
+*.ipynb
+il_data
+logs
+workflow.yaml
+.ipynb_checkpoints
+__pycache__
+tweet_embedding.npy
+tweet_embeddings.json
+saved_models
+saved_results
+data
+stocknet-dataset

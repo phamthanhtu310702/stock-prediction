@@ -10,3 +10,5 @@ saved_models
 saved_results
 data
 stocknet-dataset
+price_embeddings.npy
+stock-predictor.pkl

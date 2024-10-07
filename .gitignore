@@ -12,3 +12,5 @@ data
 stocknet-dataset
 price_embeddings.npy
 stock-predictor.pkl
+
+
